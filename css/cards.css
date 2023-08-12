@@ -1,0 +1,43 @@
+.a{
+	background: rgb(120, 242, 114);
+	border: 0px;
+	color:white;
+}
+.b{
+	background: rgb(172, 207, 252);
+	border: 0px;
+	color:white;
+}
+.c{
+	background: rgb(172, 207, 252);
+	border: 0px;
+	color:white;
+}
+.d{
+	background: rgb(172, 207, 252);
+	border: 0px;
+	color:white;
+}
+.e{
+	background: rgb(207, 85, 64);
+	border: 0px;
+	color:white;
+}
+.container{
+    background: rgb(232, 214, 211);
+}
+.f{
+   background: rgb(232, 214, 211);
+}
+.card{
+	margin-right: 30px;
+}
+.circle{
+	border-radius: 50%;
+}
+.clr-light-grey{
+	color:grey;
+}
+.sm-size{
+	font-size: 13px;
+}
